@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
-[![Stars](https://img.shields.io/github/stars/yourusername/ai-code-reviewer?style=social)](https://github.com/yourusername/ai-code-reviewer)
+[![Stars](https://img.shields.io/github/stars/thuzhangbo/ai-code-reviewer?style=social)](https://github.com/thuzhangbo/ai-code-reviewer)
 
 ## ✨ 特性
 
@@ -29,7 +29,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/ai-code-reviewer.git
+git clone https://github.com/thuzhangbo/ai-code-reviewer.git
 cd ai-code-reviewer
 ```
 
@@ -138,8 +138,8 @@ ai-code-reviewer/
 
 ## 📞 联系我们
 
-- 项目主页: https://github.com/yourusername/ai-code-reviewer
-- 问题反馈: https://github.com/yourusername/ai-code-reviewer/issues
+- 项目主页: https://github.com/thuzhangbo/ai-code-reviewer
+- 问题反馈: https://github.com/thuzhangbo/ai-code-reviewer/issues
 - 邮箱: your.email@example.com
 
 ---

@@ -39,7 +39,7 @@ const AboutPage: React.FC = () => {
         </p>
         <div className="flex justify-center space-x-4">
           <a
-            href="https://github.com/yourusername/ai-code-reviewer"
+            href="https://github.com/thuzhangbo/ai-code-reviewer"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center space-x-2"
@@ -174,7 +174,7 @@ const AboutPage: React.FC = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://github.com/yourusername/ai-code-reviewer/issues"
+            href="https://github.com/thuzhangbo/ai-code-reviewer/issues"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary inline-flex items-center justify-center space-x-2"

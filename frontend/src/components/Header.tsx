@@ -46,7 +46,7 @@ const Header: React.FC = () => {
           {/* GitHub Link */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="https://github.com/yourusername/ai-code-reviewer"
+              href="https://github.com/thuzhangbo/ai-code-reviewer"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
@@ -83,7 +83,7 @@ const Header: React.FC = () => {
                 </Link>
               ))}
               <a
-                href="https://github.com/yourusername/ai-code-reviewer"
+                href="https://github.com/thuzhangbo/ai-code-reviewer"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-3 py-2 text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors flex items-center space-x-2"

@@ -55,7 +55,7 @@ const HomePage: React.FC = () => {
               <ArrowRight className="w-4 h-4" />
             </Link>
             <a
-              href="https://github.com/yourusername/ai-code-reviewer"
+              href="https://github.com/thuzhangbo/ai-code-reviewer"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary inline-flex items-center justify-center space-x-2"
